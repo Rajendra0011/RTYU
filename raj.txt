@@ -1,4 +1,2 @@
-testing team
-:w
-:q
+this is firds line
 
